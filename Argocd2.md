@@ -302,11 +302,6 @@ This feature requires **Kustomize v3.5.4+** — so you'd explicitly specify it i
 
 ---
 
-Perfect, Deepak! 🔥
-You've seen how Argo CD supports **Helm** and **Kustomize** in detail — now let’s look at the **other supported tools** that Argo CD can auto-detect or configure, with **examples for each**.
-
----
-
 ## ✅ Overview: Argo CD Supported Tools
 
 | Tool               | Description                                   | Auto-Detected? | Requires Plugin? |
