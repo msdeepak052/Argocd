@@ -1,5 +1,5 @@
-Great question, Deepak! 🔄
-**Argo CD Sync Policies** control **how and when** your Kubernetes applications get **synchronized** (i.e., deployed or updated) from Git to your cluster.
+
+###  **Argo CD Sync Policies** control **how and when** your Kubernetes applications get **synchronized** (i.e., deployed or updated) from Git to your cluster.
 
 Let’s break it down:
 
