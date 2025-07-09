@@ -202,10 +202,3 @@ spec:
 | Use cases             | Helm, cert-manager, webhooks, autoscalers                    |
 
 ---
-
-Would you like help generating reusable YAML templates with diff ignore rules for:
-
-* `Helm + Argo CD`?
-* `cert-manager`, `istio`, or `sealed-secrets`?
-
-Let me know, and I’ll tailor it to your setup!
